@@ -1,0 +1,6 @@
+C:\Users\Jeka\Desktop\nUnit2\nUnit\bin\Debug\nUnit.dll
+C:\Users\Jeka\Desktop\nUnit2\nUnit\bin\Debug\nUnit.pdb
+C:\Users\Jeka\Desktop\nUnit2\nUnit\bin\Debug\nunit.framework.dll
+C:\Users\Jeka\Desktop\nUnit2\nUnit\bin\Debug\nunit.framework.xml
+C:\Users\Jeka\Desktop\nUnit2\nUnit\obj\Debug\nUnit.dll
+C:\Users\Jeka\Desktop\nUnit2\nUnit\obj\Debug\nUnit.pdb
